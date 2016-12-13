@@ -6,7 +6,7 @@ public class TEst {
 		// TODO Auto-generated method stub
 System.out.println("hai...");
 
-//prashant adding
+//prashant adding new project
 	}
 
 }
